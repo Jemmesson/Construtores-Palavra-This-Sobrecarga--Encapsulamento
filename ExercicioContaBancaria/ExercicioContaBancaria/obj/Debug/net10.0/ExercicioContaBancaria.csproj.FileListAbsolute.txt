@@ -1,0 +1,14 @@
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net10.0\ExercicioContaBancaria.exe
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net10.0\ExercicioContaBancaria.deps.json
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net10.0\ExercicioContaBancaria.runtimeconfig.json
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net10.0\ExercicioContaBancaria.dll
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net10.0\ExercicioContaBancaria.pdb
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ExercicioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ExercicioContaBancaria.AssemblyInfoInputs.cache
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ExercicioContaBancaria.AssemblyInfo.cs
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ExercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ExercicioContaBancaria.dll
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\refint\ExercicioContaBancaria.dll
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ExercicioContaBancaria.pdb
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ExercicioContaBancaria.genruntimeconfig.cache
+C:\Projetos\csharp - construtores_this_sobrecarga_encapsulamento\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net10.0\ref\ExercicioContaBancaria.dll
